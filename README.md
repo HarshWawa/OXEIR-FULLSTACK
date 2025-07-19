@@ -10,6 +10,17 @@ A full-stack application for creating, submitting, and evaluating tests using AI
 
 ---
 
+## How to run Locally
+```
+cd Backend
+npm install
+node server.js
+```
+```
+cd Frontend
+npm install
+npm run dev
+```
 ## 📚 Features
 
 ### 👨‍🎓 Learner
